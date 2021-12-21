@@ -1,7 +1,7 @@
 package OOP._02_Class;
 
 public class Animal {
-    String name; // 객체 변수이고 객체 변수는 공유되지 않는다
+    protected String name; // 객체 변수이고 객체 변수는 공유되지 않는다
 
     public void setName(String name){
         this.name = name; // this는 클래스에 의해 생성된 객체를 지칭한다.
