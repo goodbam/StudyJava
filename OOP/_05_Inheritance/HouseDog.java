@@ -14,7 +14,7 @@ public class HouseDog extends Dog {
     
     /*
     입력 항목이 다른 경우 동일한 이름의 메소드를 만들 수 있는데 이런 경우를
-    메소드 오버로딩()이라고 한다.
+    메소드 오버로딩(Method Overloading)이라고 한다.
     *메소드 추가*
     */
     public void sleep(int hour){
