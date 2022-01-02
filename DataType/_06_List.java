@@ -3,7 +3,7 @@ package DataType;
 import java.util.ArrayList;
 import java.util.Comparator;
 
-public class _06_ArrayList {
+public class _06_List {
     public static void main(String[] args) {
         
         ArrayList<String> list = new ArrayList<>();
